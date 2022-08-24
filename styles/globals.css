@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+.swiper-css1 {
+  background-color: pink;
+}
